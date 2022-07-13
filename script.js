@@ -92,10 +92,10 @@ const questions = [
     {
         question: 'What is another word for simple?',
         answers: [
-            { text: 'Complicated', correct: true },
+            { text: 'Complicated', correct: false },
             { text: 'Straightforward ', correct: true },
-            { text: 'Demanding', correct: true },
-            { text: 'Interesting', correct: true }
+            { text: 'Demanding', correct: false },
+            { text: 'Interesting', correct: false }
         ]
     },
     {
